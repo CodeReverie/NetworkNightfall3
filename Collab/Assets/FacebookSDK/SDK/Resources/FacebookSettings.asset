@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedAppIndex: 0
   clientTokens:
-  - 
+  - 2aa154de24e605f0b7d71ff45ee85473
   appIds:
-  - 0
+  - 866358644979895
   appLabels:
-  - App Name
+  - networknightfall
   cookie: 1
   logging: 1
   status: 1
